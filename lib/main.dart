@@ -33,6 +33,12 @@ class MyApp extends StatelessWidget {
       39.99,
       'https://example.com/product3.jpg',
     ),
+    Product(
+      'Product 3',
+      'Description for Product 3',
+      39.99,
+      'https://example.com/product3.jpg',
+    ),
   ];
 
   @override
